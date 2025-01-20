@@ -1,7 +1,8 @@
 # Welcome to my Data Analysis Portofolio!
+### Summary for JuYeong's Data Analysis projects. I'm thrilled to extract insights through data and analyze real-hand problems with data analysis
 
 
-### 01. Retention Analysis and RFM Analysis on e-commerce data
+## 01. Retention Analysis and RFM Analysis on e-commerce data
 [e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
 - Background: Customer analysis is one of the key topics in business field. This project was conducted to practice data analysis in the e-commerce sector, which deals with vast amounts of data The main analysis carried out in this project were Retention Analysis and RFM Analysis.
 - What is Retention Analysis?
@@ -33,7 +34,7 @@ Customer analysis is one of the most important key in business analysis field. T
 
 
 
-# 2. Users behavior analysis based on Funnel Analysis
+## 2. Users behavior analysis based on Funnel Analysis
 ![user behavior](Dau_funnel_analysis.ipynb)
 
 ### Goal
