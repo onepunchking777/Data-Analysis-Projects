@@ -30,3 +30,50 @@
 
 ### What I learned
 Customer analysis is one of the most important key in business analysis field. Through this project, I learned a method to conduct retention analysis, and RFM analysis, which can be stretched further to building marketing strategies based on data analysis. This project helped me a lot for customer analysis which is used frequently in business field.
+
+
+
+# 2. Users behavior analysis based on Funnel Analysis
+![user behavior](Dau_funnel_analysis.ipynb)
+
+### Goal
+ - To analyze on which day do users visit the site the most and conduct a funnel analysis
+
+### What is funnel analysis?
+- Funnel analysis is a method of analysis used to identify at which stages users drop off in the process of achieving a specific goal, such as making a purchase, signing up, or downloading.
+
+### Summary
+ -(1) Data collection/ information
+   - 2020 e-commerce user log data
+ 
+ -(2) Data Preprocessing
+   - Changed 'event_time' data type
+   - Deleted columns that's not important and have many nulls ( 'Category_code', 'Brand' )
+   - Added Year / Month / Day date column
+ 
+ -(3) DAU(Daily Activate Users) Analysis
+   - Grouped data by 'date_ymd' column to see unique 'user_id' values
+   - Generated seaborn.bar chart to see mean DAU values per weekdays.
+   
+ 
+ -(4) Analysis on how long users stayed on each step('view', 'cart', 'purchase')
+ 
+ -(5) Analyzed on which step does users broke away the most
+   -  Generated pivot table to count users on every step('view', 'cart', 'purchase')
+   -  Created px.funnel chart to visualize user's stay on every step
+   -  Created px.funnel chart again to visualize the percentage of user's stay on every step
+ 
+ -(6) Conclusion
+   -  From the first of month to middle of month, DAU increased, but after it stayed almost same
+   -  Users visited the site the most on Tuesday, and increases on the weekend
+   -  Average staying time is 1 hour, the users who only viewed stayed 40 minutes, the users who put product on the cart stayed 2 hours and 
+      40minutes, and the users who purchased stayed 6 hours and 40 minutes.
+   -  After viewing the product, only 47.3% remain on the step of putting a product into the cart, and only 9% of users actually buy the   
+      product.
+ 
+ -(7) Expected Strategies after analysis
+   -  A significant drop-off occurs in the stage from adding items to the cart to making a purchase, indicating the need for strategies to improve the conversion rate at this stage. For example, we can think of a drill-down analysis to identify potential issues in the order process, benefits offered, or membership registration.
+
+
+
+
