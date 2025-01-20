@@ -1,6 +1,7 @@
 # JuYeong Lee's project Portofolio
 
 ### 01. Retention Analysis and RFM Analysis on e-commerce data
+[e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
 - Background: Customer analysis is one of the key topics in business field. This project was conducted to practice data analysis in the e-commerce sector, which deals with vast amounts of data The main analysis carried out in this project were Retention Analysis and RFM Analysis.
 - What is Retention Analysis?
   - Retention analysis tracks whether users continue to use the product after a certain period of time has passed, monitoring user retention and churn. Generally, a high retention rate indicates that users are using the service regularly which can be interpreted as a sign of increased user engagement and loyalty. This metric is crucial for determining the product direction to improve user participation.
@@ -27,4 +28,4 @@
 - Need strategy: Recency rate is high, but purchase rate is low. Need a strategy to induce purchasing products with strategy such as discount or 1 + 1 events.
 
 ### What I learned
-Customer analysis is one of the most important key in business analysis field. Through this project, I learned a method to conduct retention analysis, and RFM analysis, which can be stretched further to building marketing strategies based on data analysis. 
+Customer analysis is one of the most important key in business analysis field. Through this project, I learned a method to conduct retention analysis, and RFM analysis, which can be stretched further to building marketing strategies based on data analysis. This project helped me a lot for customer analysis which is used frequently in business field.
