@@ -17,4 +17,14 @@
 
 - Month 1 retention got increased as it progresses.
 - Customer's revisit rised the most in November 2011.
-- 
+
+![이미지설명](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/commerce2.png)
+
+- Excellent: Both recency and purchase rate is high.
+- Good: Both recency and purchase rate is high, but not more than Excellent. These customers are still loyal customers.
+- Dormant: Both recency and purchase rate is really row, which means they don't visit and purchase products anymore
+- Prevention: Purchase rate is high, but recency is low. Need a marketing strategy such as e-mail or alarm to induce them to visit again.
+- Need strategy: Recency rate is high, but purchase rate is low. Need a strategy to induce purchasing products with strategy such as discount or 1 + 1 events.
+
+### What I learned
+Customer analysis is one of the most important key in business analysis field. Through this project, I learned a method to conduct retention analysis, and RFM analysis, which can be stretched further to building marketing strategies based on data analysis. 
