@@ -10,3 +10,11 @@
 - Main goals for this projects
    - How many customers stay and how many churn over time?
    - Based on RFM analysis, segment customers into categories: excellent, good, dormant, prevention, and need strategy for future strategy.
+
+
+### Result 
+![이미지설명](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/commerce1.png)
+
+- Month 1 retention got increased as it progresses.
+- Customer's revisit rised the most in November 2011.
+- 
