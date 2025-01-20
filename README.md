@@ -1,8 +1,12 @@
 # Welcome to my Data Analysis Portofolio!
-### Summary for JuYeong's Data Analysis projects. I'm thrilled to extract insights through data and analyze real-hand problems with data analysis
+### Summary for JuYeong's Data Analysis projects. With experience and proficiency in Python, SQL, and R, I am passionate about leveraging data to drive meaningful real-world improvements and informed decision-making. I am committed to continuous learning and actively implementing projects to further enhance my data analysis skills.
+
+
 
 
 ## 01. Retention Analysis and RFM Analysis on e-commerce data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 [e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
 - Background: Customer analysis is one of the key topics in business field. This project was conducted to practice data analysis in the e-commerce sector, which deals with vast amounts of data The main analysis carried out in this project were Retention Analysis and RFM Analysis.
 - What is Retention Analysis?
@@ -35,6 +39,8 @@ Customer analysis is one of the most important key in business analysis field. T
 
 
 ## 2. Users behavior analysis based on Funnel Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![user behavior](https://github.com/onepunchking777/JuYeong-s-Data-Analysis-Portofolio/blob/main/Dau_funnel_analysis.ipynb)
 
 ### Goal
