@@ -1,4 +1,5 @@
-# JuYeong Lee's project Portofolio
+# Welcome to my Data Analysis Portofolio!
+
 
 ### 01. Retention Analysis and RFM Analysis on e-commerce data
 [e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
