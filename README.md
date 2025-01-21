@@ -71,8 +71,8 @@ Customer analysis is one of the most important key in business analysis field. T
    -  Created px.funnel chart to visualize user's stay on every step
    -  Created px.funnel chart again to visualize the percentage of user's stay on every step
 
-![이미지설명](user_log2.png)
-![이미지설명](user_log3.png)
+![이미지설명](user_log-analysis/user_log2.png)
+![이미지설명](user_log-analysis/user_log3.png)
  
  -(6) Conclusion
    -  From the first of month to middle of month, DAU increased, but after it stayed almost same
