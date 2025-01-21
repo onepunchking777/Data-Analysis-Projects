@@ -99,12 +99,17 @@ Customer analysis is one of the most important key in business analysis field. T
 
 ### Process
  - Created OLTP schema diagram into Tables AND DW schema for Olist in MySQL
+<img src="BI-Olist-E-commerce/OLTP%20schema.png" alt="이미지설명" width="500" height="300"/>
+<img src="BI-Olist-E-commerce/DW%20schema.png" alt="이미지설명" width="500" height="300"/>
+<img src="BI-Olist-E-commerce/Imported data.png" alt="이미지설명" width="500" height="300"/>
  - Conducted ETL transformations in Pentaho Data Integration.
  - Imported tables from Pentaho to MySQL to view the tables and selected view that contains only orders made by customers from Sao Paulo state and from January to May 2017, ordered by purchase date to check if tables are well transported.
+ - <img src="BI-Olist-E-commerce/View in SQL.png" alt="이미지설명" width="500" height="300"/>
  - Created a report of all products which have a total order value higher than 2000
 
 
-![이미지설명](BI-Olist-E-commerce/OLTP schema.png)
+
+
 
 
 
