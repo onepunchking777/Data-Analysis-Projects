@@ -41,7 +41,7 @@ Customer analysis is one of the most important key in business analysis field. T
 ## 2. Users behavior analysis based on Funnel Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![user behavior](https://github.com/onepunchking777/JuYeong-s-Data-Analysis-Portofolio/blob/main/Dau_funnel_analysis.ipynb)
+![user behavior](user_log-analysis/Dau_funnel_analysis.ipynb)
 
 ### Goal
  - To analyze on which day do users visit the site the most and conduct a funnel analysis
