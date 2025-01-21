@@ -5,7 +5,7 @@
 
 
 ## 01. Retention Analysis and RFM Analysis on e-commerce data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](e-commerce-analysis/E_commerce_analysis.ipynb)
 
 [e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
 - Background: Customer analysis is one of the key topics in business field. This project was conducted to practice data analysis in the e-commerce sector, which deals with vast amounts of data The main analysis carried out in this project were Retention Analysis and RFM Analysis.
