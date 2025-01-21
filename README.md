@@ -25,7 +25,7 @@
 - Month 1 retention got increased as it progresses.
 - Customer's revisit rised the most in November 2011.
 
-![이미지설명](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/commerce2.png)
+![이미지설명](e-commerce-analysis/commerce2.png)
 
 - Excellent: Both recency and purchase rate is high.
 - Good: Both recency and purchase rate is high, but not more than Excellent. These customers are still loyal customers.
