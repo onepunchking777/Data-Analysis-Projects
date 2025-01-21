@@ -86,5 +86,15 @@ Customer analysis is one of the most important key in business analysis field. T
    -  A significant drop-off occurs in the stage from adding items to the cart to making a purchase, indicating the need for strategies to improve the conversion rate at this stage. For example, we can think of a drill-down analysis to identify potential issues in the order process, benefits offered, or membership registration.
 
 
+## 3. Tracking order value of products in Olist E-commerce site
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-003B49?style=for-the-badge&logo=apache&logoColor=white)
+
+### Background
+ - Business Intelligence project conducted in Tilburg University with 4 teammates.
+ - My role was to build a DW schema, OLTP schema, and create a view query in SQL.
+
+### Motivation and Goals
+ - The motivation behind creating a DW for the Olist data is to create a streamlined version of all the sales order data. This is dome in order to draw meaningful insights, store it adeptly and to standardize the version of the data. 
 
 
