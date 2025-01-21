@@ -20,7 +20,7 @@
 
 
 ### Result 
-![이미지설명](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/commerce1.png)
+![이미지설명](e-commerce-analysis/commerce1.png)
 
 - Month 1 retention got increased as it progresses.
 - Customer's revisit rised the most in November 2011.
