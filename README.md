@@ -62,7 +62,7 @@ Customer analysis is one of the most important key in business analysis field. T
    - Grouped data by 'date_ymd' column to see unique 'user_id' values
    - Generated seaborn.bar chart to see mean DAU values per weekdays.
 
-![이미지설명](user_log1.png)
+![이미지설명](user_log-analysis/user_log1.png)
  
  -(4) Analysis on how long users stayed on each step('view', 'cart', 'purchase')
  
