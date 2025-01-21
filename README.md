@@ -5,9 +5,9 @@
 
 
 ## 01. Retention Analysis and RFM Analysis on e-commerce data
-![Python](e-commerce-analysis/E_commerce_analysis.ipynb)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[e-commerce data analysis link](https://github.com/onepunchking777/E-commerce-Analysis-Projects/blob/main/E_commerce_analysis.ipynb)
+[e-commerce data analysis link](e-commerce-analysis/E_commerce_analysis.ipynb)
 - Background: Customer analysis is one of the key topics in business field. This project was conducted to practice data analysis in the e-commerce sector, which deals with vast amounts of data The main analysis carried out in this project were Retention Analysis and RFM Analysis.
 - What is Retention Analysis?
   - Retention analysis tracks whether users continue to use the product after a certain period of time has passed, monitoring user retention and churn. Generally, a high retention rate indicates that users are using the service regularly which can be interpreted as a sign of increased user engagement and loyalty. This metric is crucial for determining the product direction to improve user participation.
