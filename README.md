@@ -95,6 +95,17 @@ Customer analysis is one of the most important key in business analysis field. T
  - My role was to build a DW schema, OLTP schema, and create a view query in SQL.
 
 ### Motivation and Goals
- - The motivation behind creating a DW for the Olist data is to create a streamlined version of all the sales order data. This is dome in order to draw meaningful insights, store it adeptly and to standardize the version of the data. 
+ - The motivation behind creating a DW for the Olist data is to create a streamlined version of all the sales order data. This is dome in order to draw meaningful insights, store it adeptly and to standardize the version of the data.
+
+### Process
+ - Created OLTP schema diagram into Tables AND DW schema for Olist in MySQL.
+ - 
+![이미지설명](BI-Olist-E-commerce/OLTP schema.png)
+
+ - Conducted ETL transformations in Pentaho Data Integration.
+ - Imported tables from Pentaho to MySQL to view the tables and selected view that contains only orders made by customers from Sao Paulo state and from January to May 2017, ordered by purchase date to check if tables are well transported.
+ - Created a report of all products which have a total order value higher than 2000
+
+
 
 
